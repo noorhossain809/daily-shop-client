@@ -1,0 +1,75 @@
+
+    {
+        "id": 1,
+        "name": "Shoes",
+        "img": "assets/images/shoes1.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 2,
+        "name": "Men Shoes",
+        "img": "assets/images/shoes2.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 3,
+        "name": "Women Shoes",
+        "img": "assets/images/shoes3.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 4,
+        "name": "Shoes",
+        "img": "assets/images/shoes1.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 5,
+        "name": "Men Shoes",
+        "img": "assets/images/shoes2.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 6,
+        "name": "Women Shoes",
+        "img": "assets/images/shoes3.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 7,
+        "name": "Shoes",
+        "img": "assets/images/shoes1.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 8,
+        "name": "Men Shoes",
+        "img": "assets/images/shoes2.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 9,
+        "name": "Women Shoes",
+        "img": "assets/images/shoes3.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 10,
+        "name": "Shoes",
+        "img": "assets/images/shoes1.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 11,
+        "name": "Men Shoes",
+        "img": "assets/images/shoes2.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    },
+    {
+        "id": 12,
+        "name": "Women Shoes",
+        "img": "assets/images/shoes3.avif",
+        "description": "If a dog chews shoes whose shoes does he choose?"
+    }
+    
+
